@@ -1,14 +1,4 @@
 ####	CONSTRUÇÃO DE UM COMPILADOR 	####
-'''
-	Autor: Sérgio Castro Cabral
-	Data: 30/06/2018
-	
-	Descrição:
-		Implementação de um Analisador Léxico, Sintático e Semântico para a
-		construção de um compilador que lê um código 
-		em Mgol e o compila para a linguagem C.
-
-'''
 ################################################################################
 #                                                                              #
 #  Representação dos símbolos de acordo com as colunas da tabela de transição  #
