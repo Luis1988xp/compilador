@@ -1,7 +1,7 @@
 # Compilador em Python 3.6
 
-Luis carlos Santos Melo de Jesus RA: 1272122545
-
+Luis carlos Santos Melo de Jesus RA - 1272122545
+Vitor Reis dos Santos RA - 12722124265
 Este projeto faz parte de uma tarefa acadêmica cujo principal propósito era criar um compilador em uma linguagem para produzir código C.
 
 ## Descrição do Projeto
